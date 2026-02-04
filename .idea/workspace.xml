@@ -24,16 +24,7 @@
       <change afterPath="$PROJECT_DIR$/../../../carrefour/queries/src/main/java/enerisan/Query.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../carrefour/queries/src/main/java/enerisan/QueryController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../carrefour/queries/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/db-forest-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/CallerApplication.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ResponderApplication.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scopes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rdv-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gouvernance/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../saga/orchestrateur/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../saga/orchestrateur/src/main/java/enerisan/SagaController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../saga/orchestrateur/src/main/resources/application.yaml" afterDir="false" />
@@ -47,6 +38,10 @@
       <change afterPath="$PROJECT_DIR$/../../../vita/frontEnd/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../vita/salles/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../vitaFitness/frontEnd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rdv-service/src/main/java/org/example/RdvApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/rdv-service/src/main/java/org/example/RdvApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +56,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
   <component name="KubernetesApiProvider"><![CDATA[{
@@ -93,6 +88,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.JDependAnalyzer.executor": "Run",
     "Application.Main.executor": "Run",
     "Maven.api-gateway [clean].executor": "Run",
     "Maven.api-gateway [install].executor": "Run",
@@ -101,7 +97,13 @@
     "Maven.cqrs [clean].executor": "Run",
     "Maven.cqrs [install].executor": "Run",
     "Maven.discovery [clean].executor": "Run",
+    "Maven.discovery [compile].executor": "Run",
+    "Maven.discovery [deploy].executor": "Run",
     "Maven.discovery [install].executor": "Run",
+    "Maven.discovery [package].executor": "Run",
+    "Maven.discovery [site].executor": "Run",
+    "Maven.discovery [test].executor": "Run",
+    "Maven.discovery [validate].executor": "Run",
     "Maven.jdepend [clean].executor": "Run",
     "Maven.jdepend [install].executor": "Run",
     "Maven.untitled1 [clean].executor": "Run",
@@ -140,8 +142,8 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ngori/IdeaProjects/from-scratch/server/src/main/resources",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/irene/Desktop/cours NBACH/service-discovery/service-discovery/rdv-service/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Project",
+    "onboarding.tips.debug.path": "C:/Users/irene/Desktop/cours NBACH/service-discovery/service-discovery/gouvernance/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.configurations.included.in.services": "true",
@@ -174,7 +176,20 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+  <component name="RunManager" selected="Application.JDependAnalyzer">
+    <configuration name="JDependAnalyzer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.JDependAnalyzer" />
+      <module name="gouvernance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="cible-1" />
       <method v="2">
@@ -226,12 +241,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.JDependAnalyzer" />
       <item itemvalue="Spring Boot.ResponderApplication" />
       <item itemvalue="Spring Boot.CallerApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JDependAnalyzer" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.CallerApplication" />
         <item itemvalue="Spring Boot.ResponderApplication" />
@@ -266,7 +283,7 @@
       <workItem from="1769718138733" duration="3180000" />
       <workItem from="1769783105362" duration="43000" />
       <workItem from="1770018798489" duration="14073000" />
-      <workItem from="1770200733494" duration="1818000" />
+      <workItem from="1770200733494" duration="4180000" />
     </task>
     <servers />
   </component>
@@ -314,6 +331,11 @@
           <url>file://$PROJECT_DIR$/rdv-service/src/main/java/org/example/RdvApplication.java</url>
           <line>9</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gouvernance/src/main/java/org/example/JDependAnalyzer.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/frontend/src/main/java/org/example/CallerApplication.java</url>
