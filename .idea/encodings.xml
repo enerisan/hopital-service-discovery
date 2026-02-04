@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$APPLICATION_HOME_DIR$/bin/src/main/java" charset="UTF-8" />
+    <file url="file://$APPLICATION_HOME_DIR$/bin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../api-gateway/cible2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../api-gateway/cible2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../api-gateway/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../api-gateway/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../api-gateway/order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../api-gateway/order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../api-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../api-gateway/user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../api-gateway/user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../circuit-breaker/circuit-breaker-caller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../circuit-breaker/circuit-breaker-caller/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../circuit-breaker/circuit-breaker-responder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../circuit-breaker/circuit-breaker-responder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../circuit-breaker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../circuit-breaker/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cqrs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cqrs/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../from-scratch/h2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../from-scratch/h2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../from-scratch/server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../from-scratch/server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../from-scratch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../from-scratch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jdepend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../jdepend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../saga/choregraphie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../saga/choregraphie/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../saga/orchestrateur/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../saga/orchestrateur/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../saga/saga-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../saga/saga-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../saga/saga-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../saga/saga-payment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../saga/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../saga/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cible2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cible2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery-eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/patient-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/patient-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rdv-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rdv-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

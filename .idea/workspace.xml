@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d950343-cdf1-4c9f-8dce-4eab3331b41f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../GRETA/Java/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GRETA/Java/GRETA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GRETA/Java/MiObjeto/Heritage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GRETA/Java/MyFirstInterface/MyFirstInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GRETA/Java/MyFirstList/MyFirstList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GRETA/Java/MyFirstObject/MyFirstObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GRETA/Java/MyTreeMap/MyTreeMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GRETA/Java/Polymorphisme/Polymorphisme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../GRETA/Java/initialisation/initialisation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../carrefour/command/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../carrefour/command/src/main/java/enerisan/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../carrefour/command/src/main/java/enerisan/CommandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../carrefour/command/src/main/java/enerisan/CommandRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../carrefour/command/src/main/java/enerisan/CommandService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../carrefour/command/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../carrefour/queries/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../carrefour/queries/src/main/java/enerisan/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../carrefour/queries/src/main/java/enerisan/QueryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../carrefour/queries/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/db-forest-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/CallerApplication.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/ResponderApplication.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scopes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rdv-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../saga/orchestrateur/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../saga/orchestrateur/src/main/java/enerisan/SagaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../saga/orchestrateur/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../saga/paiement/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../saga/paiement/src/main/java/enerisan/PaiementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../saga/paiement/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../saga/stock/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../saga/stock/src/main/java/enerisan/StockController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../saga/stock/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vita/auth/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vita/frontEnd/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vita/salles/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../vitaFitness/frontEnd/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order>
+      <scope name="Payavenue" />
+    </order>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="37r0oHRGkcair1AcxDJ9q1qhMYE" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Maven.api-gateway [clean].executor": "Run",
+    "Maven.api-gateway [install].executor": "Run",
+    "Maven.circuit-breaker [clean].executor": "Run",
+    "Maven.circuit-breaker [install].executor": "Run",
+    "Maven.cqrs [clean].executor": "Run",
+    "Maven.cqrs [install].executor": "Run",
+    "Maven.discovery [clean].executor": "Run",
+    "Maven.discovery [install].executor": "Run",
+    "Maven.jdepend [clean].executor": "Run",
+    "Maven.jdepend [install].executor": "Run",
+    "Maven.untitled1 [clean].executor": "Run",
+    "Maven.untitled1 [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ApiGatewayApplication.executor": "Run",
+    "Spring Boot.Application.executor": "Run",
+    "Spring Boot.CallerApplication (1).executor": "Run",
+    "Spring Boot.CallerApplication.executor": "Run",
+    "Spring Boot.ChoregraphieApplication.executor": "Run",
+    "Spring Boot.CqrsApplication.executor": "Run",
+    "Spring Boot.DemoApplication.executor": "Run",
+    "Spring Boot.EurekaServerApplication.executor": "Run",
+    "Spring Boot.HealthServiceApplication.executor": "Run",
+    "Spring Boot.OrderApplication.executor": "Run",
+    "Spring Boot.OrderServiceApplication (1).executor": "Run",
+    "Spring Boot.OrderServiceApplication.executor": "Run",
+    "Spring Boot.PaymentApplication.executor": "Run",
+    "Spring Boot.ResponderApplication (1).executor": "Run",
+    "Spring Boot.ResponderApplication 2.executor": "Run",
+    "Spring Boot.ResponderApplication.executor": "Run",
+    "Spring Boot.SagaApplication.executor": "Run",
+    "Spring Boot.UserServiceApplication (1).executor": "Run",
+    "Spring Boot.UserServiceApplication (2).executor": "Run",
+    "Spring Boot.UserServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ngori/IdeaProjects/from-scratch/server/src/main/resources",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/irene/Desktop/cours NBACH/service-discovery/service-discovery/rdv-service/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ngori\IdeaProjects\from-scratch\server\src\main\resources" />
+      <recent name="C:\Users\ngori\IdeaProjects\cqrs" />
+      <recent name="C:\Users\ngori\IdeaProjects\cqrs\src\main\resources" />
+      <recent name="C:\Users\ngori\IdeaProjects\saga\choregraphie\src\main\resources" />
+      <recent name="C:\Users\ngori\IdeaProjects\saga\saga-payment\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ngori\IdeaProjects\untitled1\cible1\src\main\resources" />
+      <recent name="C:\Users\ngori\IdeaProjects\untitled1\cible1\src\main\java\org\example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="cible-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="cible-1" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CallerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="frontend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.CallerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="discovery-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.EurekaServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResponderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="patient-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.ResponderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ResponderApplication" />
+      <item itemvalue="Spring Boot.CallerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.CallerApplication" />
+        <item itemvalue="Spring Boot.ResponderApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d950343-cdf1-4c9f-8dce-4eab3331b41f" name="Changes" comment="" />
+      <created>1706121731050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706121731050</updated>
+      <workItem from="1767646059421" duration="7650000" />
+      <workItem from="1767821630781" duration="4609000" />
+      <workItem from="1767995339823" duration="8680000" />
+      <workItem from="1768213791572" duration="21000" />
+      <workItem from="1768663282652" duration="5092000" />
+      <workItem from="1768810638734" duration="662000" />
+      <workItem from="1768858961039" duration="5127000" />
+      <workItem from="1768903251988" duration="15000" />
+      <workItem from="1769538766166" duration="2612000" />
+      <workItem from="1769588119117" duration="85000" />
+      <workItem from="1769718138733" duration="3180000" />
+      <workItem from="1769783105362" duration="43000" />
+      <workItem from="1770018798489" duration="14073000" />
+      <workItem from="1770200733494" duration="1818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.ws.rs:jakarta.ws.rs-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/patient-service/src/main/java/org/example/ResponderApplication.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../circuit-breaker/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/api-gateway/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../saga/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../saga/orchestrateur/src/main/java/org/example/SagaApplication.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rdv-service/src/main/java/org/example/RdvApplication.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/frontend/src/main/java/org/example/CallerApplication.java</url>
+          <line>7</line>
+          <properties class="org.example.CallerApplication" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
